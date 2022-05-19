@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(250, 132, 152);
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 25px;
+    font-family: monospace; 
+}
+
+div.cont {
+    margin: 30px 30px 30px 30px;
+}
